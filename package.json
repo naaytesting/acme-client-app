@@ -1,0 +1,22 @@
+{
+  "name": "acme-client-app",
+  "version": "1.0.0",
+  "description": "ACME client application example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/naaytesting/acme-client-app.git"
+  },
+  "keywords": [
+    "acme"
+  ],
+  "author": "Miguel Jimeno",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/naaytesting/acme-client-app/issues"
+  },
+  "homepage": "https://github.com/naaytesting/acme-client-app#readme"
+}
